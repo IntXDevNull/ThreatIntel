@@ -1,15 +1,14 @@
-import webbrowser
+import subprocess
 
-def open_urls_in_chromium(urls):
-    chromium_path = "C:/Program Files/Chromium/chrome.exe %s"  # Path to Chromium executable
-    for url in urls:
-        webbrowser.get(chromium_path).open(url)
+def open_urls_in_chromium(urls_file):
+    with open(urls_file, 'r') as file:
+        urls = file.read().split(',')
+        urls = [url.strip() for url in urls]
 
-# Example list of comma-separated URLs
-urls = [
-    "https://www.example.com",
-    "https://www.google.com",
-    "https://www.github.com"
-]
+        for url in urls:
+            subprocess.Popen(["chromium-browser", "--new-tab", url])
 
-open_urls_in_chromium(urls)
+# Path to the file containing comma-separated URLs
+urls_file = "urls.txt"
+
+open_urls_in_chromium(urls_file)
