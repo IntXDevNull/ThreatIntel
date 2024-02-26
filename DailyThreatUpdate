@@ -1,3 +1,7 @@
+#Copy code into <filename>.py
+#Change attributes to be executable: chmod +x <filename>.py
+#Run code by ".<filename>.py urls.txt" where urls.txt is the repository of links provided from this repo, or a list of your own.
+
 #!/usr/bin/env python3
 
 import webbrowser
