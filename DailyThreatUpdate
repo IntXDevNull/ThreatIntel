@@ -1,6 +1,9 @@
-#Copy code into <filename>.py
-#Change attributes to be executable: chmod +x <filename>.py
-#Run code by ".<filename>.py urls.txt" where urls.txt is the repository of links provided from this repo, or a list of your own.
+#Follow these steps to use the provided Python script:
+#
+#Copy the code into a new file named <filename>.py.
+#Make the file executable by running the command: chmod +x <filename>.py.
+#Run the code by executing the command: ./<filename>.py urls.txt. Replace urls.txt with the file containing the list of URLs. You can either use the provided urls.txt file from this repository or create your own list of URLs.
+#This script will open each URL in a separate tab in Chromium. Adjustments to the execution speed can be made within the script itself if necessary.
 
 #!/usr/bin/env python3
 
