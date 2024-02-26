@@ -1,0 +1,15 @@
+import webbrowser
+
+def open_urls_in_chromium(urls):
+    chromium_path = "C:/Program Files/Chromium/chrome.exe %s"  # Path to Chromium executable
+    for url in urls:
+        webbrowser.get(chromium_path).open(url)
+
+# Example list of comma-separated URLs
+urls = [
+    "https://www.example.com",
+    "https://www.google.com",
+    "https://www.github.com"
+]
+
+open_urls_in_chromium(urls)
