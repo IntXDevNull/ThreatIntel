@@ -1,7 +1,8 @@
-#Copy into a local file with <nameofscript>.py and chmod +x <nameofscript>.p
-#Execut using ./<nameofscript>.p
+#!/usr/bin/env python3
 
-import subprocess
+import webbrowser
+import sys
+import os
 
 def open_urls_in_chromium(urls_file):
     with open(urls_file, 'r') as file:
@@ -9,9 +10,16 @@ def open_urls_in_chromium(urls_file):
         urls = [url.strip() for url in urls]
 
         for url in urls:
-            subprocess.Popen(["chromium-browser", "--new-tab", url])
+            webbrowser.get('chromium').open_new_tab(url)
 
-# Path to the file containing comma-separated URLs
-urls_file = "urls.txt"
+if __name__ == "__main__":
+    if len(sys.argv) != 2:
+        print("Usage: ./test.py <urls_file>")
+        sys.exit(1)
 
-open_urls_in_chromium(urls_file)
+    urls_file = sys.argv[1]
+
+    # Set the WEBBROWSER_OPEN_DELAY environment variable to a shorter delay
+    os.environ['WEBBROWSER_OPEN_DELAY'] = '0.1'  # Adjust the delay here (in seconds)
+    
+    open_urls_in_chromium(urls_file)
