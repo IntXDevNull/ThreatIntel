@@ -3,7 +3,7 @@ This overview is dedicated to managing public and less public information source
 
 ## Misc. public webpages
 - [1](https://thehackernews.com/)
-- 2
+- [2](https://www.reddit.com/r/cybersecurity/)
 - 3
 - 4
 - 5
