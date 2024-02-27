@@ -3,8 +3,8 @@ This overview is dedicated to managing public and less public information source
 
 ## Misc. public webpages
 - [1 - The Hackernews](https://thehackernews.com/)
-- [2](https://www.reddit.com/r/cybersecurity/)
-- 3
+- [2 - CyberSecurity Reddit](https://www.reddit.com/r/cybersecurity/)
+- [3 - Krebsonsecurity](https://krebsonsecurity.com/)
 - 4
 - 5
 
