@@ -2,9 +2,9 @@
 This overview is dedicated to managing public and less public information sources for cybersecurity-related topics. Here, I will keep and maintain a collection of resources, tools, and insights to help individuals and organizations stay informed and protected in the landscape of cybersecurity threats. Whether you're a cybersecurity enthusiast, professional, or organization, our repository aims to provide valuable resources and knowledge to enhance your understanding and defense against cyber threats. Feel free to explore, contribute, and collaborate as we work together to strengthen our cybersecurity posture.
 
 ## Misc. public webpages
-- [1 - The Hackernews](https://thehackernews.com/)
-- [2 - CyberSecurity Reddit](https://www.reddit.com/r/cybersecurity/)
-- [3 - Krebsonsecurity](https://krebsonsecurity.com/)
+- [The Hackernews](https://thehackernews.com/)
+- [CyberSecurity Reddit](https://www.reddit.com/r/cybersecurity/)
+- [Krebsonsecurity](https://krebsonsecurity.com/)
 - 4
 - 5
 
