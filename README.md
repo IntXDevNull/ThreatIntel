@@ -5,8 +5,15 @@ This overview is dedicated to managing public and less public information source
 - [The Hackernews](https://thehackernews.com/)
 - [CyberSecurity Reddit](https://www.reddit.com/r/cybersecurity/)
 - [Krebsonsecurity](https://krebsonsecurity.com/)
-- 4
-- 5
+- [RansomWatch](https://ransomwatch.telemetry.ltd/#/recentposts)
+- [RansomLook](https://www.ransomlook.io/recent)
+- 
+- 6
+- 7
+- 8
+- 9
+- 10
+- 
 
 ## Onion links
 - 1
