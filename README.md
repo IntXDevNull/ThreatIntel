@@ -29,6 +29,15 @@ This overview is dedicated to managing public and less public information source
 - 4
 - 5
 
+## Mastadon channels
+- [RasonLook](https://social.circl.lu/@Ransomlook)
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+
 ## Discord channels
 - 1
 - 2
