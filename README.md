@@ -38,3 +38,26 @@ This overview is dedicated to managing public and less public information source
 - [National Cyber Security Centre (UK)](https://www.linkedin.com/company/national-cyber-security-centre/)
 - [The Hacker News](https://www.linkedin.com/company/thehackernews/)
 - [The Cyber Security Hub](https://www.linkedin.com/company/the-cyber-security-hub/)
+
+## X groups
+- Black Hat
+- Dark Web Informer
+- PortSwigger
+- PortSwigger Research
+- OffSec
+- Binary Defense
+- TrustedSec
+- Burp Suite
+- HackerSploit
+- Web Security Academy
+- PentesterLab
+- BugCrowd
+- HackerOne
+- Intigriti
+- TCM Security
+- Ben Sadeghipour
+- John Hammond
+- Darknet Diaries
+- Black Hills Information
+- Vx-Underground
+- Tib3rius
