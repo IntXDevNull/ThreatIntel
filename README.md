@@ -7,15 +7,12 @@ This overview is dedicated to managing public and less public information source
 - [Krebsonsecurity](https://krebsonsecurity.com/)
 - [RansomWatch](https://ransomwatch.telemetry.ltd/#/recentposts)
 - [RansomLook](https://www.ransomlook.io/recent)
-- [Shodan](https://www.shodan.io/)
 - [ShadowServer](https://dashboard.shadowserver.org/)
 - [BleepingComputer](https://www.bleepingcomputer.com/)
 - [KeyScore](https://x.keysco.re/)
-- 9
-- 10
-
-## Mastadon channels
-- [RasonLook](https://social.circl.lu/@Ransomlook)
+  
+## Mastadon
+- [RansomLook](https://social.circl.lu/@Ransomlook)
 
 ## Discord servers
 - [NorSec](https://discord.gg/4G8sEeE)
