@@ -1,5 +1,5 @@
 ## Overview
-This overview is dedicated to managing public and less public information sources for cybersecurity-related topics. Here, I will keep and maintain a collection of resources, tools, and insights to help individuals and organizations stay informed and protected in the landscape of cybersecurity threats. Whether you're a cybersecurity enthusiast, professional, or organization, our repository aims to provide valuable resources and knowledge to enhance your understanding and defense against cyber threats. Feel free to explore, contribute, and collaborate as we work together to strengthen our cybersecurity posture.
+This overview is dedicated to managing public and less public information sources for cybersecurity-related topics.
 
 ## Misc. public webpages
 - [The Hackernews](https://thehackernews.com/)
@@ -7,47 +7,37 @@ This overview is dedicated to managing public and less public information source
 - [Krebsonsecurity](https://krebsonsecurity.com/)
 - [RansomWatch](https://ransomwatch.telemetry.ltd/#/recentposts)
 - [RansomLook](https://www.ransomlook.io/recent)
-- 
-- 6
-- 7
-- 8
+- [Shodan](https://www.shodan.io/)
+- [ShadowServer](https://dashboard.shadowserver.org/)
+- [BleepingComputer](https://www.bleepingcomputer.com/)
+- [KeyScore](https://x.keysco.re/)
 - 9
 - 10
-- 
-
-## Onion links
-- 1
-- 2
-- 3
-- 4
-- 5
-
-## Telegram channels
-- 1
-- 2
-- 3
-- 4
-- 5
 
 ## Mastadon channels
 - [RasonLook](https://social.circl.lu/@Ransomlook)
-- 2
-- 3
-- 4
-- 5
-- 6
-- 7
 
-## Discord channels
-- 1
-- 2
-- 3
-- 4
-- 5
+## Discord servers
+- [NorSec](https://discord.gg/4G8sEeE)
 
 ## LinkeIn sites
-- 1
-- 2
-- 3
-- 4
-- 5
+- [O3 Cyber](https://www.linkedin.com/company/o3cyber/)
+- [bsides Kristiansand](https://www.linkedin.com/company/bsideskrs/)
+- [Norma Cyber](https://www.linkedin.com/company/norma-cyber/)
+- [River Security](https://www.linkedin.com/company/river-security/)
+- [NetSecurity](https://www.linkedin.com/company/netsecurity-as/)
+- [Defendable](https://www.linkedin.com/company/defendable/)
+- [TrustedSec](https://www.linkedin.com/company/trustedsec-llc/)
+- [Kovert](https://www.linkedin.com/company/kovert/)
+- [Black Hills](https://www.linkedin.com/company/black-hills-information-security/)
+- [National Institute of Standards and Technology (NIST)](https://www.linkedin.com/company/nist/)
+- [OWASP Foundation](https://www.linkedin.com/company/owasp/)
+- [National Security Authority (Norway)](https://www.linkedin.com/company/nasjonal-sikkerhetsmyndighet/)
+- [PortSwigger](https://www.linkedin.com/company/portswigger/)
+- [Snyk](https://www.linkedin.com/company/snyk/)
+- [OffSec](https://www.linkedin.com/company/offsec-training/)
+- [Pentester Academy](https://www.linkedin.com/company/pentesteracademy/)
+- [Cyber Security News](https://www.linkedin.com/company/cybersecurity-news/)
+- [National Cyber Security Centre (UK)](https://www.linkedin.com/company/national-cyber-security-centre/)
+- [The Hacker News](https://www.linkedin.com/company/thehackernews/)
+- [The Cyber Security Hub](https://www.linkedin.com/company/the-cyber-security-hub/)
